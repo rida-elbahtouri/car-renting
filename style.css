@@ -250,7 +250,7 @@ body {
   }
  
   .Header {
-    width: 100vw;
+    width: 98vw;
     height: 85vh;
     background: linear-gradient(to right, rgba(255, 255, 255, 0.335), rgba(128, 128, 128, 0.315)), url("images/header.jpg");
     background-position: center;
