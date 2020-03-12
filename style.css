@@ -238,12 +238,13 @@ body {
       opacity: 1;
       height: 100vh;
       width: 100%; } }
-	body{
+
+  body{
 		padding:0;
 	margin:0;}
 	
-.container {
-  width: 100vw;
+  .container {
+  width: 95vw;
   margin: 0;
   margin-left:5px;
   margin-right:5px;
